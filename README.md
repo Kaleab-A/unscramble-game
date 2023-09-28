@@ -6,13 +6,13 @@
   Welcome to the Unscramble Letter Game! This interactive word game challenges users to unscramble a given set of letters to form a word. The program sources words from the Free Random Word Generator API and is built using React.js for the frontend and Express.js for the backend.
 </p>
 
+![alt text](https://github.com/Kaleab-A/unscramble-game/blob/main/sample/Screenshot%20from%202023-09-28%2016-30-27.png?raw=true)
+
 <!-- Table of Contents -->
 ## Table of Contents
 
 - [How to Run](#how-to-run)
 - [How It Works](#how-it-works)
-
-![alt text](https://raw.githubusercontent.com/Kaleab-A/unscramble-game/main/sample/Screenshot%20from%202023-09-28%2016-30-27.png)
 
 <!-- How to Run -->
 ## How to Run
