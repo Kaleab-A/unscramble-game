@@ -1,0 +1,38 @@
+.game-status {
+    font-size: 30px;
+    /* color: #fff; */
+    text-align: center;
+    margin: 0px 40px;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.game-status-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 100%;
+    margin: 60px 0px;
+}
+
+.navbar {
+    justify-content: center !important;
+    padding: 30px 0px !important;
+}
+
+.navbar-brand {
+    font-size: 40px !important;
+}
+
+.hintBtn {
+    padding: 10px 25px !important;
+    font-size: 20px !important;
+    margin: 30px 50% !important;
+    transform: translateX(-50%) !important;
+}

@@ -1,0 +1,17 @@
+.cell-input {
+    width: 75px;
+    height: 75px;
+    margin: 10px 5px;
+    border-radius: 20%;
+    border: 3px solid #DEE1E9;
+    background-color: #FBFCFF;
+    font-size: 50px;
+    text-align: center;
+    text-transform: uppercase;
+    caret-color: transparent;
+}
+
+.cell-input:focus {
+    outline: none;
+    border: 3px solid #A9B2C3;
+}
