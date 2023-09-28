@@ -12,6 +12,8 @@
 - [How to Run](#how-to-run)
 - [How It Works](#how-it-works)
 
+![alt text](https://raw.githubusercontent.com/Kaleab-A/unscramble-game/main/sample/Screenshot%20from%202023-09-28%2016-30-27.png)
+
 <!-- How to Run -->
 ## How to Run
 
